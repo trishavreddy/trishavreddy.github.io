@@ -389,6 +389,9 @@ function App() {
           <a href="https://github.com/trishavreddy" target="_blank" rel="noopener noreferrer" style={{ margin: '0 1rem', color: 'var(--accent)' }}>GitHub</a>
           <a href="https://linkedin.com/in/trishavreddy/" target="_blank" rel="noopener noreferrer" style={{ margin: '0 1rem', color: 'var(--accent)' }}>LinkedIn</a>
           <a href="mailto:trreddy@seas.upenn.edu" style={{ margin: '0 1rem', color: 'var(--accent)' }}>Email</a>
+          <div style={{ marginTop: '1.2rem', fontSize: 15, color: '#888' }}>
+            © 2025 Trisha Reddy. All rights reserved.
+          </div>
         </footer>
       </main>
     </div>
